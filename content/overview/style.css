@@ -1,0 +1,59 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(14, 127, 135);
+    }
+
+h2{
+    color: rgb(235, 248, 248);
+    background-color: rgba(4, 33, 30, 0.747); 
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: 10%;
+    }
+
+#box1{
+    margin: 10%;
+    padding: 5%;
+    font-size: x-large;
+    background-color: coral;
+    box-shadow: 0px 0px 50px rgb(5, 60, 44);
+}
+
+.topic{
+    margin-top: 5%;
+    color: rgb(243, 151, 71);
+    background-color: rgb(43, 25, 6);
+    
+
+}
+
+.explanation{
+    color: antiquewhite;
+    margin-top: 10px;
+
+}
+
+.example{
+    margin-top: 5%;
+
+}
+
+.image{
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-left: 15%;
+    align-items: center;
+    box-shadow: 0px 0px 10px black;
+
+}
+
+li{
+    color: rgb(255, 255, 255);
+    
